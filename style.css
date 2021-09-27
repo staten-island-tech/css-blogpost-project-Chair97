@@ -1,9 +1,15 @@
 body {
-  background-color: red;
-  color: blue;
+  background-color: antiquewhite;
   font-size: 25px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Gemunu Libre", sans-serif;
 }
 .header {
   color: white;
+}
+.background {
+  background-image: url(GTR.jpg);
+  color: white;
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
 }
