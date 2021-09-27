@@ -1,15 +1,9 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: red;
+  color: blue;
   font-size: 25px;
   font-family: "Raleway", sans-serif;
 }
 .header {
   color: white;
-}
-.background {
-  background-image: url(img/GTR.jpg);
-  background-position: center;
-  color: black;
-  height: 50vh;
 }
