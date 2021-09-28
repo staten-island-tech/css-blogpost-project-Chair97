@@ -5,6 +5,8 @@ body {
 }
 .header {
   color: white;
+  text-align: center;
+  background-color: black;
 }
 .background {
   background-image: url(GTR.jpg);
@@ -12,4 +14,8 @@ body {
   height: 50vh;
   background-size: cover;
   background-position: center;
+}
+.h2 {
+  font-size: 50px;
+  text-align: center;
 }
