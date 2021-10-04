@@ -16,7 +16,6 @@ body {
 }
 .background {
   background-image: url(GTR.jpg);
-  color: white;
   height: 50vh;
   background-size: cover;
   background-position: center;
@@ -40,7 +39,7 @@ body {
   top: 51%;
   left: 33%;
   background-image: url(sc201.jpg);
-  background-size: cover;
+  background-size: contain;
 }
 #speedtail {
   font-size: 40px;
@@ -53,4 +52,7 @@ body {
   left: 66%;
   background-image: url(speedtail.jpg);
   background-size: cover;
+}
+.boxes {
+  color: white;
 }
