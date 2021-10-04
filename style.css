@@ -9,7 +9,7 @@ body {
   background-color: black;
   width: 500px;
   position: relative;
-  top: 6%;
+  top: 7.5%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0%;
@@ -22,12 +22,35 @@ body {
   background-position: center;
 }
 .h2 {
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   border: 5px solid black;
-  width: 450px;
+  width: 30vw;
+  height: 30vh;
+  background-image: url(divo1.jpg);
+  background-size: cover;
+}
+.h3 {
+  font-size: 40px;
+  text-align: center;
+  border: 5px solid black;
+  width: 30vw;
+  height: 30vh;
   position: absolute;
-  top: 45%;
-  left: 50%;
-  transform: translate(-50%, 50%);
+  top: 51%;
+  left: 33%;
+  background-image: url(sc201.jpg);
+  background-size: cover;
+}
+#speedtail {
+  font-size: 40px;
+  text-align: center;
+  border: 5px solid black;
+  width: 30vw;
+  height: 30vh;
+  position: absolute;
+  top: 51%;
+  left: 66%;
+  background-image: url(speedtail.jpg);
+  background-size: cover;
 }
