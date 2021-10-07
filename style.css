@@ -28,6 +28,7 @@ body {
   height: 30vh;
   background-image: url(divo1.jpg);
   background-size: cover;
+  color: white;
 }
 .h3 {
   font-size: 40px;
@@ -35,11 +36,11 @@ body {
   border: 5px solid black;
   width: 30vw;
   height: 30vh;
-  position: absolute;
   top: 51%;
   left: 33%;
   background-image: url(sc201.jpg);
   background-size: contain;
+  color: white;
 }
 #speedtail {
   font-size: 40px;
@@ -47,12 +48,14 @@ body {
   border: 5px solid black;
   width: 30vw;
   height: 30vh;
-  position: absolute;
   top: 51%;
   left: 66%;
   background-image: url(speedtail.jpg);
   background-size: cover;
-}
-.boxes {
   color: white;
+}
+.boxes div {
+  width: 30vw;
+  position: relative;
+  left: 33%;
 }
