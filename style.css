@@ -1,7 +1,10 @@
 body {
   background-color: rgb(250, 235, 215);
   font-size: 25px;
+<<<<<<< Updated upstream
   font-family: "Gemunu Libre", sans-serif;
+=======
+>>>>>>> Stashed changes
 }
 .header {
   color: white;
